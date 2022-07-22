@@ -1,0 +1,30 @@
+*) frontend (reactjs)
+- HTML5 => (2, 3 buổi)
+
+- CSS -> CSS3  (2, 3 buổi) 
+ 
+- Javascript (3 buổi)
+ 
+- jquery (1 buổi)
+
+- Bootstrap  (1 buổi)
+
+- Cắt ghép giao diện web (.psd, .ai, ) => .html (1 buổi) 
+
+- Mock Project (Khoảng 2 tuần)
+-------------------------
+Tài nguyên học tập: (share)
+1. Slides
+2. Labguide
+3. Books
+
+-----Sau CSS => Du_An_FrontEnd
+--------------------------
+Công cụ lập trình: (frontend)
+	- visual code 2019 
+	- sublime text
+	- ...
+--------------------------
+- mỗi ngày 1 - 2h làm 
+- nên chọn giờ cố định
+
